@@ -1,0 +1,10 @@
+alembic==1.9.2
+greenlet==2.0.1
+Mako==1.2.4
+MarkupSafe==2.1.2
+mysql-connector-python==8.0.32
+mysqlclient==2.1.1
+protobuf==3.20.3
+pydantic==1.10.4
+SQLAlchemy==1.4.46
+typing_extensions==4.4.0
